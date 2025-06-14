@@ -1,0 +1,25 @@
+.git
+.vscode
+/.github
+node_modules
+.env.local
+README.md
+*.log
+.DS_Store
+.replit
+.upm
+.config
+replit.nix
+replit.toml
+.replit
+
+# Test files and scripts
+test-*.js
+test-*.mjs
+show-*.js
+show-*.mjs
+*-test.js
+*-test.ts
+chapter4.md
+diagrams.md
+attached_assets/
